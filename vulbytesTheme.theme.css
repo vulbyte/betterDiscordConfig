@@ -14,9 +14,11 @@
     --background-image: url(''); /*no idea where this appears*/
     /*--home-image: url('https://vulbyte.com/_app/immutable/assets/vulbytesLogo.19c7b20c.svg'); /* icon ot view dms and such */
     --background-solid: #000000;
-    --background-solid-dark: #090909;
+    --background-solid-dark: #101010;
     --background-solid-darker: #000000;
     --background-tertiary: #FFFF00;
-    --accent: 255, 000, 070; /*needs to be an rgb value without proper naming for whatever reason rgba(255,000,70,1.0)*/
+    --accent: 255, 000, 070; /*needs to be an rgb value without proper naming for whatever reason rgba(255,000,070,1.0)*/
     --accent-alt: 255, 000, 070; /*same as above  rgba(200,0,150,1.0) */
+
+    --font-primary: "Geist-Light";
 }
