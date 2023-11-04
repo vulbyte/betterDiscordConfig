@@ -98,7 +98,7 @@ div[class*="userProfile"][class*="unThemed"].theme-light {
 }
 
 .none-2Eo-qx::-webkit-scrollbar {
-	/* display: none !important;*/
+	display: none !important;
 }
 
 
