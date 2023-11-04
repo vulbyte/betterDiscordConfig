@@ -140,7 +140,6 @@ div[class*="typeWindows-"]::after {
 
 nav[class*="guilds-"] {
     background: transparent;
-    border: 1px solid var(--accent);
 }
 ul[data-list-id='guildsnav'] {
 	--background-secondary: var(--background-solid);
@@ -148,7 +147,6 @@ ul[data-list-id='guildsnav'] {
 	margin-bottom: 70px;
 	background-color: rgba(var(--md-black), 0.6);
 	border-right: 1px solid rgba(var(--md-black), 0.2);
-	box-shadow: inset -10px 0px 20px -10px rgba(var(--md-black), 0.3);
 }
 
 ul[data-list-id='guildsnav'] ::-webkit-scrollbar {
@@ -156,12 +154,12 @@ ul[data-list-id='guildsnav'] ::-webkit-scrollbar {
 }
 
 ul[data-list-id='guildsnav']>div[dir] {
-	padding-top: 18px;
+/*	padding-top: 18px; */
 }
 
 ul[data-list-id='guildsnav'] [class^="pill-"],
 ul[data-list-id='guildsnav'] [class^="pill-"]>div {
-	height: 40px !important;
+	/* height: 40px !important; */
 }
 
 ul[data-list-id='guildsnav'] div[style*="height: 56"],
