@@ -12,13 +12,9 @@ this is obviously personal preference but i just don't really like the other so 
 
 ## requriements 
 
-- better discord: [better discord](https://betterdiscord.app/)
-<br /> 
+- better discord: [better discord](https://betterdiscord.app/) <br /> 
 - Geist font: [Geist font by vercel](https://vercel.com/font) <br />
 this is a really nice font put out by vercel under a publically usable license, and it's a really nice fon't. not perfect, but really good expecally for a modern setting. <br />
-this is honestly probably the biggest breath of fresh fair given to the whole ui. 
-<br />
-- an internet conenction: [the internet](https://en.wikipedia.org/wiki/Internet)
-<br /> 
-- a computer with at least an i3-1000 (i have not tested this claim): [consider a computer here (put linux on it)](https://www.dellrefurbished.ca/)
-<br /> 
+this is honestly probably the biggest breath of fresh fair given to the whole ui. <br />
+- an internet conenction: [the internet](https://en.wikipedia.org/wiki/Internet)<br /> 
+- a computer with at least an i3-1000 (i have not tested this claim): [consider a computer here (put linux on it)](https://www.dellrefurbished.ca/) <br /> 
