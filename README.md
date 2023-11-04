@@ -16,5 +16,5 @@ better discord: [better discord](https://betterdiscord.app/)
 <br /> 
 an internet conenction: [the internet](https://en.wikipedia.org/wiki/Internet)
 <br /> 
-a computer with at least an ie  (i have not tested this claim): [consider a computer here (put linux on it)](https://www.dellrefurbished.ca/)
+a computer with at least an i3-1000 (i have not tested this claim): [consider a computer here (put linux on it)](https://www.dellrefurbished.ca/)
 <br /> 
