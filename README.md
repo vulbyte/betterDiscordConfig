@@ -12,7 +12,7 @@ this is obviously personal preference but i just don't really like the other so 
 
 ## requriements 
 
-better discord: [better discord](https://betterdiscord.app/)
+- better discord: [better discord](https://betterdiscord.app/)
 <br /> 
 - Geist font: [Geist font by vercel](https://vercel.com/font) <br />
 this is a really nice font put out by vercel under a publically usable license, and it's a really nice fon't. not perfect, but really good expecally for a modern setting. <br />
