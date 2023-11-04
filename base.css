@@ -279,6 +279,7 @@ nav[aria-label]>div>header {
 	height: 54px;
 	--background-accent: rgba(var(--accent), 1);
 	--background-modifier-hover: rgba(var(--md-black), 0.25);
+    margin: auto;
 }
 
 
