@@ -15,7 +15,7 @@ button {
 /* Root Variables */
 
 :root {
-	--font-primary: 'Geist', serif;
+	--font-primary: serif;
 	--font-display: var(--font-primary) !important;
 	/* Dark Matter Variables */
 	--avatar-size: 32px;
