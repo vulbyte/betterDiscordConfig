@@ -140,6 +140,7 @@ div[class*="typeWindows-"]::after {
 
 nav[class*="guilds-"] {
     background: transparent;
+    border: 1px solid var(--accent);
 }
 ul[data-list-id='guildsnav'] {
 	--background-secondary: var(--background-solid);
