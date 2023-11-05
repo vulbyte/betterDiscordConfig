@@ -197,7 +197,7 @@ div[data-list-item-id="guildsnav___home"] {
     margin: auto;
 }
 
-:has(.username) {
+[class*="username"] {
     min-width: 8em;
 }
 
