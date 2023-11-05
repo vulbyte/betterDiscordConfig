@@ -11,8 +11,8 @@
 /* Variables */
 :root {
     --avatar-size: 32px;
-    --background-image: url(''); /*no idea where this appears*/
-    /*--home-image: url('https://vulbyte.com/_app/immutable/assets/vulbytesLogo.19c7b20c.svg'); /* icon ot view dms and such */
+    --background-image: url('https://vulbyte.com/_app/immutable/assets/vulbytesLogo.19c7b20c.svg'); /*no idea where this appears*/
+    --home-image: url('https://vulbyte.com/_app/immutable/assets/vulbytesLogo.19c7b20c.svg'); /* icon ot view dms and such */
     --background-solid: #000000;
     --background-solid-dark: #101010;
     --background-solid-darker: #000000;
@@ -24,4 +24,7 @@
     --font-primary: "Geist-Light", sans-serif;
 } 
 
-
+[class='privateChannelsHeaderContainer_ddcec6 container_de798d'] {
+    background-color: var(--accentRGB);
+    color: white;
+}
