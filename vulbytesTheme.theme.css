@@ -18,7 +18,10 @@
     --background-solid-darker: #000000;
     --background-tertiary: #FFFF00;
     --accent: 255, 000, 070; /*needs to be an rgb value without proper naming for whatever reason rgba(255,000,070,1.0)*/
+    --accentRGB: rgba(255, 000, 070, 1.0);
     --accent-alt: 255, 000, 070; /*same as above  rgba(200,0,150,1.0) */
 
-    --font-primary: "Geist-Light";
-}
+    --font-primary: "Geist-Light", sans-serif;
+} 
+
+
